@@ -7,3 +7,8 @@
  - unhash-object function is redundant, much better guess is done in helper functions in src/helper-functions.c, the logic is preliminary 
  - further staging functions required (rn no staging area is implemented)
  - cgit diff is under progress
+ - cgit status shall be implemented at the earliest
+
+
+
+ # any prs to address these are well appreciated
