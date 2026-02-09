@@ -39,6 +39,8 @@ Everyone is advised to read the_gap.md before using
   </a>
 </p>
 
+## click on the video above + 
+
 
 - use the make build file to build the output and symlink to usr/bin
 - to test it out, try the tests/ repository right away after cding into tests/
