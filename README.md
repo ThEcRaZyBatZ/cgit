@@ -33,6 +33,13 @@ Everyone is advised to read the_gap.md before using
 
 # Download and usage
 
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=giD9Q9Gxe5Q">
+    <img src="https://img.youtube.com/vi/giD9Q9Gxe5Q/maxresdefault.jpg" width="700">
+  </a>
+</p>
+
+
 - use the make build file to build the output and symlink to usr/bin
 - to test it out, try the tests/ repository right away after cding into tests/
 - The application is mostly memory safe and is verified by valgrind
