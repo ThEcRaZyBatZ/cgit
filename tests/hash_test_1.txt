@@ -1,0 +1,31 @@
+Here is a "bunch of rubbish" (trash/garbage) themed content for you to copy and paste, including emojis, text art, and descriptions: 
+🗑️ Rubbish Emojis & Symbols
+Wastebasket: 🗑️
+Litter in Bin Sign: 🚮
+No Littering: 🚯
+Pile of Poo: 💩
+Fire/Dumpster Fire: 🔥 🗑️
+Recycling Symbol: ♻️ 
+📄 Text-Based Rubbish List
+Old receipts
+Broken plastic fork
+Used coffee grounds
+Crumpled paper
+Empty pistachio shells
+Banana peel 
+🗑️ ASCII Art Trash Can
+text
+   [_____]
+  / ___  \
+ | |   | |
+ | |___| |
+  \_____/
+🚮 Copy-Paste Descriptions 
+"Literal and figurative garbage."
+"Plastic waste container with empty bottles."
+"Set of black sacks full of smelly garbage."
+"Organic waste pile for compost." 
+🖥️ Technical Trash
+Unicode: U+F5DE
+CSS: \F5DE
+HTML: &#xF5DE; 
