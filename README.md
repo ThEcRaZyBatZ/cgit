@@ -39,7 +39,7 @@ Everyone is advised to read the_gap.md before using
   </a>
 </p>
 
-## click on the video above + 
+## click the video above + 
 
 
 - use the make build file to build the output and symlink to usr/bin
