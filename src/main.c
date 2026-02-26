@@ -1,6 +1,20 @@
 #include "../headers/main.h"
 
 int main(int argc, char* argv[]){
+
+    if(argc==1){
+        printf("cgit init:          initialise the .cgit structure\n"
+                "cgit hash-object:   to compress a single file into a blob\n"
+                "cgit unhash-object: prints whats inside a blob to stdout\n"
+                "cgit unhash-object: prints whats inside a blob to stdout\n"
+                "cgit commit-all -m: hashes all of whats inside the pwd\n"
+                "cgit log:           displays the commit log\n"
+                "cgit checkout -ch:  reverts back to that commit hash, expands everything\n"
+                "cgit restore:       reverts back to the latest commit\n"
+            );
+        return 0;
+    }
+
     switch(get_command(argv[1],argc)){
         case cmd_init:{ //cgit init => makes the required files and folders
             if(cgit_init()==-1) return -1;
